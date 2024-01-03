@@ -1,6 +1,6 @@
-My name is Ricardo Zárate
+# My name is Ricardo Zárate
 
-I'm a highly motivated business professional with a passion for data analytics and a deep-rooted commitment to helping businesses make informed decisions. 
+## I'm a highly motivated business professional with a passion for data analytics and a deep-rooted commitment to helping businesses make informed decisions. 
 
 I graduated Cum Laude with a degree in Business Administration, focusing in Business Analytics. I have experience with a wide range of data analysis tools 
 and programming languages, including SQL, Python, R, Tableau, Excel, IBM Watson Natural Language Understanding, and Microsoft Azure Video Indexer. 
@@ -14,17 +14,7 @@ leveraging the power of data to tackle complex client problems, drive growth, an
 - ✉️ Contact me at rzarate8@gmail.com
 - ⚽️ I'm a UCL and Premier League fan!
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-
+<!---
+cardozarate/cardozarate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 --->
