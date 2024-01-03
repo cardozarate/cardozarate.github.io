@@ -14,7 +14,3 @@ leveraging the power of data to tackle complex client problems, drive growth, an
 - ✉️ Contact me at rzarate8@gmail.com
 - ⚽️ I'm a UCL and Premier League fan!
 
-<!---
-cardozarate/cardozarate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
