@@ -1,6 +1,6 @@
-# My name is Ricardo Zárate
+My name is Ricardo Zárate
 
-## I'm a highly motivated business professional with a passion for data analytics and a deep-rooted commitment to helping businesses make informed decisions. 
+I'm a highly motivated business professional with a passion for data analytics and a deep-rooted commitment to helping businesses make informed decisions. 
 
 I graduated Cum Laude with a degree in Business Administration, focusing in Business Analytics. I have experience with a wide range of data analysis tools 
 and programming languages, including SQL, Python, R, Tableau, Excel, IBM Watson Natural Language Understanding, and Microsoft Azure Video Indexer. 
